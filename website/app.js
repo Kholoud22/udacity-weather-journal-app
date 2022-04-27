@@ -34,9 +34,11 @@ submitBtn.addEventListener('click', e => {
   });
 
     try {
-      return await response.json();
+      let res = await response.json();
+      console.log("res", res);
+      return res;
     } catch(error) {
-		console.log("error", error);
+	console.log("error", error);
     }
 }
 
