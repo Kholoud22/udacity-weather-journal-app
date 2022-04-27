@@ -3,8 +3,6 @@
 ## Project Weather Journal App (Front End Developer Udacity Nanodegree)
 #### Technology used: HTML, CSS, Javascript (Vanilla)
 
-## Deployed here https://udacity-weather-journal-app-two.vercel.app/website/index.html
-
 ### Project Objective
 
 This project is about working with Web APIs and asynchronous code, creating a web app that uses OpenWeatherMap API to get weather based on user's location, and dynamically update UI.
