@@ -1,6 +1,6 @@
 /* Global Variables */
 // Personal API Key for OpenWeatherMap API
-const baseUrl = 'http://api.openweathermap.org/data/2.5/forecast?zip=';
+const baseUrl = 'https://cors-anywhere.herokuapp.com/http://api.openweathermap.org/data/2.5/forecast?zip=';
 const key = '&appid=65c3c175ab4928ffa8bafe2a87b1d3d4&units=metric';
 
 // Create a new date instance dynamically with JS
