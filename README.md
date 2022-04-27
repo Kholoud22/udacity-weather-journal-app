@@ -3,6 +3,7 @@
 ## Project Weather Journal App (Front End Developer Udacity Nanodegree)
 #### Technology used: HTML, CSS, Javascript (Vanilla)
 
+## Deployed here https://udacity-weather-journal-app-two.vercel.app/website/index.html
 
 ### Project Objective
 
